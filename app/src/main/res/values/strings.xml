@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dictionary Application</string>
+    <string name="label_text">Enter Input Down Below</string>
+    <string name="button_click">Click Here</string>
+</resources>
